@@ -2,7 +2,7 @@
 
 Hello! My name is Keith but you can call me keef lol. I like to collect art pieces and sneakers since 2016 and wondering around in art museum when I'm bored
 
-I'm a self-learning developer working on [Underscorelabs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
+I'm a self-learning developer working on [Underscore labs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
 
 ### 💻 Archived Projects
 You can view my past projects [here](https://keef.id/projects)
