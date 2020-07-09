@@ -4,7 +4,7 @@ Hello! My name is Keith but you can call me keef lol. I like to collect art piec
 
 I'm a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
 
-### 💻 Past works 
+### 💻 Archived Projects
 You can view my past projects [here](https://keef.id/projects)
 
 ### 📫 How to reach me 
