@@ -1,6 +1,6 @@
 ### 👋 Welcome to my Github profile 
 
-My name is keef. I like collecting art pieces, sneakers and looking at contemporary art!
+Hello! My name is Keith but you can call me keef lol. I like to collect art pieces and sneakers since 2016 and visit art museum when I'm bored
 
 I'm a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
 
