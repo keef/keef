@@ -1,13 +1,13 @@
-### Welcome to my Github profile 👋
+### 👋 Welcome to my Github profile 
 
 My name is keef. I like collecting art pieces, sneakers and looking at contemporary art!
 
 I'm a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
 
-### Past works 💻
+### 💻 Past works 
 You can view my past projects [here](https://keef.id/projects)
 
-### How to reach me 📫
+### 📫 How to reach me 
 [Discord](https://discord.bio/p/keef)
 
 [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=hello@keef.id)
