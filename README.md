@@ -1,8 +1,6 @@
 ### 👋 Welcome to my Github profile 
 
-Hello! Im keef. I like to collect art pieces and sneakers since 2016 and wondering around in art museum when I'm bored
-
-I'm a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
+Hi I'm keef- a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
 
 ### 💻 Archived Projects
 You can view my past projects [here](https://keef.id/projects)
