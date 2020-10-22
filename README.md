@@ -1,6 +1,6 @@
 ### 👋 Welcome to my Github profile 
 
-Hi I'm keef- a self-learning developer working on [UNDERSCORE LABS](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
+Hi I'm keef, a self-learning developer working on [UNDERSCORE LABS](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
 
 ### 💻 Archived Projects
 You can view my past projects [here](https://keef.id/projects)
