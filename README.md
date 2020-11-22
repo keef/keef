@@ -1,6 +1,6 @@
 ### Welcome to my Github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi I'm keef, a self-learning developer working on [UNDERSCORE LABS](https://github.com/underscorelabs) and [Underground Notify](https://twitter.com/UGNotify)
+Hi I'm keef, a self-learning developer working on [UNDERSCORE LABS](https://github.com/underscorelabs) and [Peko Notify](https://pekonotify.com/)
 
 ### 💻 Archived Projects
 You can view my past projects [here](https://keef.id/projects)
