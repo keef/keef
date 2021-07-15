@@ -2,12 +2,12 @@
 
 Hello, I'm a self-learning developer working on [UNDERSCORE LABS](https://github.com/underscorelabs) and [Peko Notify](https://pekonotify.com/)
 
-### 💻 Archived Projects
+### 💻 Archived projects
 You can view my past projects [here](https://keef.id/projects)
 
 ### 📝 Currently working on:
 - [Nightio CLI](https://twitter.com/_Nightio)
-- Private autocheckout bot for AU region
+- Private bot automation on AU/EU region
 
 ### 📫 Where to reach me 
 - [Discord](https://discord.bio/p/keef)
@@ -17,8 +17,8 @@ You can view my past projects [here](https://keef.id/projects)
 
 ### ⭐ Github stats
 <a href="https://github.com/keef/github-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
 </a>
-<!-- <a href="https://github.com/keef/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keef&theme=onedark&show_icons=true&count_private=true&langs_count=6" />
-</a> -->
+<a href="https://github.com/keef/wakatime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
+</a>
