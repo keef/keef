@@ -19,6 +19,6 @@ You can view my past projects [here](https://keef.id/projects)
 <a href="https://github.com/keef/github-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
 </a>
-<a href="https://github.com/keef/wakatime">
+<!-- <a href="https://github.com/keef/wakatime">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
-</a>
+</a> -->
