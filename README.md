@@ -7,7 +7,7 @@ You can view my past projects [here](https://keef.id/projects)
 
 ### 📝 Currently working on:
 - [Nightio CLI](https://twitter.com/_Nightio)
-- Private bot automation on AU/EU region
+- Private bot automation on AU/EU/SEA region
 
 ### 📫 Where to reach me 
 - [Discord](https://discord.bio/p/keef)
