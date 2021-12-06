@@ -6,7 +6,6 @@ Hello, I'm a self-learning developer working on [UNDERSCORE LABS](https://github
 You can view my past projects [here](https://keef.id/projects)
 
 ### 📝 Currently working on:
-- [Nightio CLI](https://twitter.com/NightioCLI)
 - Private bot automation on AU/EU/SEA region
 
 ### 📫 Where to reach me 
