@@ -1,11 +1,11 @@
-### Welcome to my Github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to my Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hello, I'm a self-learning developer working on [UNDERSCORE LABS](https://github.com/underscorelabs) and [Peko Notify](https://pekonotify.com/)
+I'm a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs)
 
-### 💻 Archived projects
+### 💻 Past projects
 You can view my past projects [here](https://keef.id/projects)
 
-### 📝 Currently working on:
+### 📝 Currently working on
 - Private bot automation on AU/EU/SEA region
 
 ### 📫 Where to reach me 
@@ -16,8 +16,6 @@ You can view my past projects [here](https://keef.id/projects)
 
 ### ⭐ Github stats
 <a href="https://github.com/keef/github-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keef&theme=transparent&&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&" />
 </a>
-<!-- <a href="https://github.com/keef/wakatime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=keef&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
-</a> -->
+
