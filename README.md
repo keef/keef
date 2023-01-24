@@ -6,7 +6,7 @@ I'm a self-learning developer working on [Underscore Labs](https://github.com/un
 You can view my past projects [here](https://keef.id/projects)
 
 ### 📝 Currently working
-- Private bot automation on AU/EU/SEA region
+- Custom bot automation on AU/EU/SEA region
 - Providing SaaS services and custom bots to streamline businesses and increase efficiency
 
 ### 📫 Where to reach me 
