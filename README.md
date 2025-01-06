@@ -15,8 +15,3 @@ You can view my past projects [here](https://keef.id/projects)
 - [Github](https://github.com/keef)
 - [Twitter](https://twitter.com/whereiskeef)
 
-### ⭐ Github stats
-<a href="https://github.com/keef/github-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keef&theme=transparent&&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&" />
-</a>
-
