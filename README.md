@@ -1,17 +1,33 @@
-### Welcome to my Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  
+# Hey, I'm Keef 👋
 
-I'm a self-learning developer working on [Underscore Labs](https://github.com/underscorelabs)
+**Self-taught developer** crafting automation tools and SaaS solutions
 
-### 💻 Past projects
-You can view my past projects [here](https://keef.id/projects)
+[![Underscore Labs](https://img.shields.io/badge/🔬_Underscore_Labs-000000?style=for-the-badge)](https://github.com/underscorelabs)
 
-### 📝 Currently working
-- Custom bot automation on AU/EU/SEA region
-- Providing SaaS services and custom bots to streamline businesses and increase efficiency
+</div>
 
-### 📫 Where to reach me 
-- [Discord](https://discord.bio/p/keef)
-- [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=hello@keef.id)
-- [Github](https://github.com/keef)
-- [Twitter](https://twitter.com/whereiskeef)
+---
 
+### 🚀 What I'm Building
+
+- **Custom Bot Automation** — Serving AU/EU/SEA regions
+- **SaaS Solutions** — Streamlining businesses and boosting efficiency
+
+### 📂 Portfolio
+
+Check out my past work at **[keef.id/projects](https://keef.id/projects)**
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bio/p/keef)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@keef.id)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keef)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/whereiskeef)
+
+</div>
